@@ -1,5 +1,7 @@
 # An Essay on Human Nature and the Art of Living
 
+**English** · [Français](README.fr.md)
+
 **Simon Kreis & Claude.** Made with AI, mainly Claude (Anthropic), which contributed in part or in whole to the work. Simon Kreis is responsible for the result. A rewrite of two manuscripts Simon Kreis wrote more than ten years ago.
 
 Updated October 2026.
